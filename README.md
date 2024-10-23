@@ -4,10 +4,10 @@ Infra na AWS com Terraform (IaC)
 
 
 ## Beneficios
-### Automatixa o processo de criação de infraestrutura
-### Padronização de infraestrutura
-### Replicar a infra de forma fácil
+<p>Automatixa o processo de criação de infraestrutura</p>
+<p>Padronização de infraestrutura</p>
+<p>Replicar a infra de forma fácil</p>
 
 
 ## Terraform
-### É uma ferramenta para criação de infrastructure As Code
+<p>É uma ferramenta para criação de infrastructure As Code</p>
